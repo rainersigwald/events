@@ -39,7 +39,7 @@ sending a pull request!
 | [Will Norris](https://willnorris.com/)  | participant  | [@willnorris](https://github.com/willnorris) | [@willnorris](https://twitter.com/willnorris) | |
 | Paul Betts | participant |[@paulcbetts](https://github.com/paulcbetts) | [@paulcbetts](https://twitter.com/paulcbetts) | SF |
 | Jeff Pickhardt | participant |[@pickhardt](https://github.com/pickhardt) | [@jrpickhardt](https://twitter.com/jrpickhardt) | SF |
-| Laura Abbott | participant | [@labbott](https://github.com/labbott) | [@openlabbott](https://twitter.com/openlabbott) | SEA |
+| Laura Abbott | participant | [@labbott](https://github.com/labbott) | [@openlabbott](https://twitter.com/openlabbott) | SEA |M
 | Kyle Mathews | participant | [@kyleamathews](https://github.com/kyleamathews) | [@kylemathews](https://twitter.com/kylemathews) | SF |
 | Beyang Liu | participant | [@beyang](https://github.com/beyang) | [@beyang](https://twitter.com/beyang) | SF |
 | Quinn Slack | participant | [@sqs](https://github.com/sqs) | [@sqs](https://twitter.com/sqs) | SF |
@@ -64,3 +64,4 @@ sending a pull request!
 | [Alan Coopersmith](https://www.x.org/wiki/AlanCoopersmith/) | participant | [@alanc](https://github.com/alanc) | [@alanc](https://twitter.com/alanc) | Santa Clara, CA |
 | Esther Quansah | participant | @essiequoi (https://github.com/essiequoi) | VA based; in SF from 2/8 until 2/16 |
 | Dhruv Jain | participant | [@midhruvjaink](https://github.com/midhruvjaink) | [@midhruvjaink](https://twitter.com/midhruvjaink) | YtQck, Fire, Earth.css - INDIA |
+| Rainer Sigwald | participant | [@rainersigwald](https://github.com/rainersigwald) | [@tashkant](https://twitter.com/tashkant) | OKC based, Microsoft dev tools |
